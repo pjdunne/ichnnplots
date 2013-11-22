@@ -1,0 +1,12 @@
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+Step & QCD W$\rightarrow e\nu$ & EWK W$\rightarrow e\nu$ & QCD W$\rightarrow\mu\nu$ & EWK W$\rightarrow\mu\nu$ & QCD W$\rightarrow\tau\nu$ & EWK W$\rightarrow\tau\nu$  \\
+\hline
+TightMjj &  $6.2\pm2.11$ & $1.24\pm0.158$ & $1.71\pm1.4$ & $0.456\pm0.0968$ & $83.8\pm7.61$ & $38.7\pm0.887$ \\
+SIG noCJV &  $0.423\pm0.423$ & $0.202\pm0.0666$ & $0\pm0$ & $0.0481\pm0.0296$ & $19.4\pm3.48$ & $9.05\pm0.436$ \\
+QCD noCJV &  $2.74\pm1.18$ & $0.231\pm0.069$ & $0\pm0$ & $0.176\pm0.0629$ & $14.9\pm2.8$ & $5.46\pm0.332$ \\
+CJVpass &  $1.31\pm1.31$ & $0.354\pm0.0853$ & $1.71\pm1.4$ & $0.268\pm0.0723$ & $10.7\pm2.84$ & $6.39\pm0.359$ \\
+SIG CJVpass &  $0\pm0$ & $0.0917\pm0.0446$ & $0\pm0$ & $0.0181\pm0.0181$ & $2.08\pm1.08$ & $1.25\pm0.161$ \\
+QCD CJVpass &  $0\pm0$ & $0.0657\pm0.038$ & $0\pm0$ & $0.104\pm0.0471$ & $2.39\pm1.2$ & $1.09\pm0.147$ \\
+\hline
+\end{tabular}

@@ -1,0 +1,12 @@
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+Step & $t\bar{t}$ & $t\bar{t}$ POWHEG & single top & $t,\bar{t}\rightarrow tW$  \\
+\hline
+TightMjj &  $233\pm13.6$ & $263\pm6.66$ & $60.5\pm4.45$ & $14.8\pm2.67$ \\
+SIG noCJV &  $61.5\pm7.1$ & $73.6\pm3.54$ & $17.9\pm2.39$ & $4.73\pm1.5$ \\
+QCD noCJV &  $39.8\pm5.44$ & $42.4\pm2.69$ & $11.1\pm1.88$ & $2.77\pm1.14$ \\
+CJVpass &  $7.04\pm2.32$ & $10.1\pm1.25$ & $16.5\pm2.37$ & $2.78\pm1.14$ \\
+SIG CJVpass &  $1.51\pm0.971$ & $1.94\pm0.519$ & $3.23\pm1.1$ & $0.444\pm0.444$ \\
+QCD CJVpass &  $1.95\pm1.29$ & $2.03\pm0.554$ & $6.33\pm1.43$ & $0.894\pm0.637$ \\
+\hline
+\end{tabular}

@@ -1,0 +1,29 @@
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+ & \multicolumn{2}{c|}{no CJV} & \multicolumn{2}{c|}{CJV} \\
+\hline
+ & $\nu\nu$ & $\tau\nu$ & $\nu\nu$ & $\tau\nu$ \\
+\hline
+nData & - & $32\pm 5.66$ & - & $6 \pm 2.45 (stat) \pm 4.05e-320 (mcStat) $  \\
+nBkg & - & $15\pm 3.35$ & - & $1.14 \pm 0.76 (stat) \pm 0 (mcStat) $ \\
+\hline
+n$_{MC}$(W$\rightarrow \tau \nu$) & 213 \pm11.2 (stat.)  & 28.5 \pm 3.51 (stat.) & 88.5 \pm8.04 (stat.)  & 3.33 \pm1.09 (stat.)  \\
+\hline
+$\varepsilon_{tauID}$ & \multicolumn{2}{c|}{$0.134 \pm 0.00948$ } & \multicolumn{2}{c|}{$0.0376 \pm 0.00891$ } \\
+\hline
+$\varepsilon_{CJV}$ &  \multicolumn{4}{c|}{ $0.416 \pm 0.016$  }\\
+\hline
+W$\rightarrow \tau\nu$ estimates & \multicolumn{2}{c|}{ $127\pm 49.1(stat) \pm 9.01(mcStat) $} & \multicolumn{2}{c|}{ $52.9\pm 20.4(stat) \pm 8.11(mcStat) $} \\
+\hline
+\hline
+ \multicolumn{5}{|c|}{Without EWK W+2j included}\\
+\hline
+n(W$\rightarrow \tau \nu$) & 171\pm11.1 (stat.) & 19.4 \pm 3.48 (stat.) & 71.1 \pm 8.02 (stat.) & 2.08 \pm 1.08 (stat.) \\
+\hline
+$\varepsilon_{tauID}$ & \multicolumn{2}{c|}{$0.114 \pm 0.013$ } & \multicolumn{2}{c|}{$0.0292 \pm 0.0119$ } \\
+\hline
+$\varepsilon_{CJV}$ &  \multicolumn{4}{c|}{ $1 \pm 1.86e-09$  }\\
+\hline
+W$\rightarrow \tau\nu$ estimates & \multicolumn{2}{c|}{ $150\pm 6.58(stat) \pm 17.1(mcStat) $} & \multicolumn{2}{c|}{ $62.4\pm 24.1(stat) \pm 14.1(mcStat) $} \\
+\hline
+\end{tabular}

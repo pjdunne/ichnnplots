@@ -1,0 +1,14 @@
+\begin{tabular}{l c c c c}
+\hline
+ $N_{W\rightarrow e\nu}^{MC}$ & Electron $d\phi < 1.0$ & Electron $d\phi>2.6$ & Muon $d\phi < 1.0$ & Muon $d\phi > 2.6$ \\
+\hline
+Central num. of events & 105 & 94 & 108 & 94.2 \\
+Statistical & $\pm$9.82\% & $\pm$8.25\% & $\pm$8.91\% & $\pm$8.78\% \\
+JESUP & +8.71\% & +6.97\% & +12.9\% & +5.18\% \\
+JESDOWN & -9.11\% & -3.46\% & -10.9\% & -5.44\% \\
+JERBETTER & -4.62\% & -2.05\% & -5.03\% & -3.83\% \\
+JERWORSE & +10.1\% & +0.936\% & +7.14\% & +3.17\% \\
+PUUP & +0.219\% & +3.08\% & -1.33\% & +0.366\% \\
+PUDOWN & -0.673\% & -3.63\% & +1.51\% & -0.568\% \\
+\hline
+\end{tabular}

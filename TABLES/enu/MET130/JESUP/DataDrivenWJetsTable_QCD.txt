@@ -1,0 +1,10 @@
+\begin{tabular}{|l|c|c|}
+\hline
+ & Signal sample & Control sample \\
+\hline
+$N_{data}$ & XXX & 45\\
+$N_{EWKbkg}$ &  n/a & $1.57 \pm 0.637 (stat) \pm 0 (mcStat) $ \\
+$N_{W\rightarrow e\nu}^{MC}$ & $101 \pm 8 (stat) \pm 0 (mcStat) $ & $42.8 \pm 4.37 (stat) \pm 0 (mcStat) $ \\
+$N_{W\rightarrow e\nu}^{data}$ & \textcolor{red}{$102 \pm 15.8 (stat) \pm 13.2 (mcStat) $} & $43.4 \pm 6.74 (stat) \pm 0 (mcStat) $ \\ 
+\hline
+\end{tabular}

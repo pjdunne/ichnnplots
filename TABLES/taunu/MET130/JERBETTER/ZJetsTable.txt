@@ -1,0 +1,12 @@
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+Step & Z$\rightarrow\nu\nu$ & EWK Z->nunu+2j  & Z$\rightarrow$ll & EWK Z->ll+2j \\
+\hline
+TightMjj &  $5.13\pm1.09$ & $0.257\pm0.0568$ & $4.47\pm0.726$ & $1.35\pm0.0938$ \\
+SIG noCJV &  $1.64\pm0.819$ & $0.0396\pm0.0208$ & $0.837\pm0.31$ & $0.272\pm0.0416$ \\
+QCD noCJV &  $1.26\pm0.418$ & $0.0414\pm0.0221$ & $1.06\pm0.352$ & $0.152\pm0.0315$ \\
+CJVpass &  $2.97\pm0.942$ & $0.172\pm0.0465$ & $0.11\pm0.11$ & $0.096\pm0.0257$ \\
+SIG CJVpass &  $0.953\pm0.751$ & $0.0241\pm0.0171$ & $0.11\pm0.11$ & $0.0281\pm0.0134$ \\
+QCD CJVpass &  $0.526\pm0.276$ & $0.0278\pm0.0173$ & $0\pm0$ & $0.0124\pm0.00879$ \\
+\hline
+\end{tabular}
